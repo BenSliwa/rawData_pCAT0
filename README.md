@@ -2,6 +2,7 @@ Raw experimental data for measurements of different LTE network quality indicato
 
 For CAT, only the results of the transmissions are provided and the single KPI-based transmissions are performed with t_min={10s, 30s}. For pCAT, the real-world traces containing live measurements of the current network quality indicators along the driven world are contained as well. The M5 Decision Tree (M5T) metric is further evaluated for Phi_max={15 MBit/s, 18 MBit/s} and with variing prediction horizon tau={10s, 30s, 60s}
 
+Within the filenames of the measurements, t1 is referring to the suburban evaluation track and t2 is related to the highway scenario.
 
 ### Connectivity map
 
