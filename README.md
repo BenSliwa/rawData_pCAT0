@@ -6,6 +6,11 @@ Within the filenames of the measurements, t1 is referring to the suburban evalua
 
 [![DOI](https://zenodo.org/badge/126449508.svg)](https://zenodo.org/badge/latestdoi/126449508)
 
+
+### Related publications
+
+- [[Sliwa2018a](#Sliwa2018a)] [**Efficient machine-type communication using multi-metric context-awareness for cars used as mobile sensors in upcoming 5G networks**](https://arxiv.org/abs/1801.03290) *IEEE Vehicular Technology Conference (VTC-Spring) 2018*
+
 ### Connectivity map
 
 The origin for the map is 51.4371,7.3929 and the cell size for the data aggregation is 25m * 25m.
@@ -47,13 +52,6 @@ The origin for the map is 51.4371,7.3929 and the cell size for the data aggregat
 * Transmissions attempts since last ack
 * Acks since last Acks
 * Velocity [km/h]
-
-
-### Filenames
- * Time DDMMYY-HHMMSS
- * (optinal) Track ID: t1/t2
- * Transmission Scheme
- * Tmin
 
 ### License
 
