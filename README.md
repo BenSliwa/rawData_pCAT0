@@ -4,6 +4,8 @@ For CAT, only the results of the transmissions are provided and the single KPI-b
 
 Within the filenames of the measurements, t1 is referring to the suburban evaluation track and t2 is related to the highway scenario.
 
+[![DOI](https://zenodo.org/badge/126449508.svg)](https://zenodo.org/badge/latestdoi/126449508)
+
 ### Connectivity map
 
 The origin for the map is 51.4371,7.3929 and the cell size for the data aggregation is 25m * 25m.
